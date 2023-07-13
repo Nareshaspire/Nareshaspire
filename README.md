@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Naresh 
-- 👀 Currently Enrolled in Mobile Application Development
-- 🌱 I’m currently learning Html,Css,Javascript,Java,Sql,Android,IOS
-- 💞️ I’m looking to collaborate on Web Development and mobile develpment.
+- 👀 Completed PGD in Mobile Application Development
+-  Currently Enrolled in I.T.Business Analasys
+- 🌱 I’m currently learning Html,CSS, Javascript,Java,SQL, Android,IOS
+- 💞️ I’m looking to collaborate on Web Development and mobile development.
 - 📫 How to reach me on https://twitter.com/codezone94
 
 
